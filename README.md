@@ -27,3 +27,14 @@ The E-commerce Website includes:
 
 To explore this project, you can view the live version of the website (if hosted) at [your live URL here]. Please contact me for more details.
 
+**License**
+This project is licensed under the Apache License 2.0. The full text of the license can be found in the LICENSE file.
+
+**Contributing**
+As this is a personal project, contributions are not accepted. However, if you have suggestions or feedback, feel free to contact me directly.
+
+**Contact**
+You can reach me via:
+Email: nischal0205@gmail.com
+LinkedIn: www.linkedin.com/in/nischal0205
+GitHub: https://github.com/Nischal025
